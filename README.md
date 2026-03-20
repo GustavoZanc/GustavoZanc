@@ -61,13 +61,6 @@
 
 ---
 
-## 🎯 Metas para 2025
-
-- [x] Criar meu perfil no GitHub
-- [ ] Completar os fundamentos de Python
-- [ ] Fazer meu primeiro projeto de análise de dados
-- [ ] Estudar bibliotecas como Pandas e NumPy
-- [ ] Publicar pelo menos 5 projetos no GitHub
 
 ---
 
