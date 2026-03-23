@@ -19,8 +19,7 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 🐍 Aprendendo **Python** e lógica de programação
-- 🤖 Interesse crescente em **Ciência de Dados e Inteligência Artificial**
-- 📚 Sempre estudando e evoluindo um pouco a cada dia
+- 🤖 Interesse crescente em **Ciência de Dados e Inteligência Artificial*
 - 🚀 Objetivo: trabalhar com **Data Science / IA** no futuro
 
 ---
