@@ -26,10 +26,10 @@
 <br>
 
 <div align="left">
-  <a href="https://www.instagram.com/seu-usuario-aqui/" target="_blank">
+  <a href="https://www.instagram.com/gustavozancanaroo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario-aqui/" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-gabriel-zancanaro-zucoli-1a7a723b4?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
