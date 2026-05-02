@@ -1,72 +1,73 @@
 <div align="center">
 
-# Olá, eu sou o Gustavo Zancanaro 👋
+### ~ Welcome to my profile ~
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Dados & IA
-
-<a href="https://www.linkedin.com/in/gustavo-gabriel-zancanaro-zucoli-1a7a723b4">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:zancanaro8565@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Anime style programming gif">
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+<div align="center">
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🐍 Aprendendo **Python** e lógica de programação
-- 🤖 Interesse crescente em **Ciência de Dados e Inteligência Artificial*
-- 🚀 Objetivo: trabalhar com **Data Science / IA** no futuro
+### ~ About me ~
 
----
+</div>
 
-## 🛠️ Tecnologias e Ferramentas
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime coding gif">
+
+- Currently studying and improving my skills in technology.
+- Name: Gustavo Gabriel Zancanaro Zuccoli
+- Gender: he/him/male
+- I like programming, data analysis, dashboards and automation.
+- Main interests: Python, SQL, Pandas, Power BI and data projects.
+- Always learning and building small projects to improve every day.
+
+<br>
 
 <div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  <a href="https://www.instagram.com/seu-usuario-aqui/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/seu-usuario-aqui/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
-
-> 🌱 Em aprendizado: lógica de programação, estruturas de dados e fundamentos de Python.
-
----
-
-## 📂 Repositórios em destaque
-
-| Repositório | Descrição |
-|---|---|
-| 📘 [ads-python](https://github.com/GustavoZanc/ads-python) | Exercícios e projetos de Python da faculdade |
-| 📊 [estudos-dados](https://github.com/GustavoZanc/estudos-dados) | Estudos iniciais em Ciência de Dados *(em breve)* |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoZanc&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZanc&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
-
----
-
 
 ---
 
 <div align="center">
 
-*"A jornada de mil milhas começa com um único passo."*
+### ~ Technologies ~
 
-⭐ Obrigado por visitar meu perfil!
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,vscode,git,github" alt="Tech icons">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Data%20Analysis-111111?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Analysis">
+
+</div>
+
+---
+
+<div align="center">
+
+### ~ GitHub Stats ~
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="420" alt="Anime study gif">
+
+### ~ Thanks for visiting ~
 
 </div>
