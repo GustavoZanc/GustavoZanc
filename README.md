@@ -49,6 +49,19 @@ Git/GitHub   -> versionamento e portfolio tecnico
 
 ---
 
+## Projetos de evolucao
+
+| Projeto | O que mostra |
+| --- | --- |
+| [Calculadora de IMC](https://github.com/GustavoZanc/python-calculadora-imc) | Primeiros passos com funcoes, entrada de dados e condicionais em Python. |
+| [Controle de Tarefas](https://github.com/GustavoZanc/controle-tarefas-python) | Menu no terminal, listas, dicionarios e persistencia em JSON. |
+| [Organizador de Arquivos](https://github.com/GustavoZanc/python-organizador-arquivos) | Automacao simples com manipulacao de pastas e arquivos. |
+| [Consultas SQL de Biblioteca](https://github.com/GustavoZanc/consultas-sql-biblioteca) | Criacao de tabelas, inserts, joins, filtros e agrupamentos. |
+| [Analise de Vendas com Pandas](https://github.com/GustavoZanc/analise-vendas-pandas) | Leitura de CSV, agrupamentos e indicadores com Pandas. |
+| [Dashboard Financeiro Simples](https://github.com/GustavoZanc/dashboard-financeiro-simples) | Base para analise financeira e preparacao de dashboard. |
+
+---
+
 ## Estatisticas
 
 <div align="center">
