@@ -1,102 +1,20 @@
-<div align="center">
 
-# Gustavo Gabriel Zancanaro Zuccoli
 
-### Data Analysis | Python | SQL | Power BI
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decisoes;Construindo+dashboards+e+automacoes;Aprendendo+e+evoluindo+todos+os+dias" alt="Typing SVG" />
 
-</div>
+### Hi there! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="25"/>
 
----
 
-## Sobre mim
+<img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>
 
-Sou estudante de tecnologia com foco em analise de dados, automacao e criacao de dashboards. Gosto de transformar informacoes em visualizacoes claras, organizar dados com SQL e Python, e construir projetos praticos para evoluir tecnicamente.
+I'm [**Gustavo Zancanaro**](https://www.linkedin.com/in/gustavo-gabriel-zancanaro-zucoli-1a7a723b4), a technology student focused on data analysis, Python, SQL, dashboards, and automation.
 
-- Estudando e praticando Python, SQL, Pandas e Power BI.
-- Interesse em analise de dados, dashboards, automacoes e projetos orientados por dados.
-- Buscando evoluir com projetos reais, boas praticas e aprendizado continuo.
-- Pronouns: he/him.
+I am building practical projects with [@Python](https://www.python.org/), SQL, Pandas, Power BI, and GitHub to turn data into clear insights.
 
----
+When I am not *programming*, you can find me studying data projects, improving my portfolio, and learning new tools for analytics and support operations.
 
-## Tecnologias e ferramentas
+#### Follow me on github and linkedin (^_-)-
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoZanc&label=Profile%20views&color=0e75b6&style=flat" alt="GustavoZanc" /> </p>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, MySQL, PostgreSQL, Git, GitHub and VS Code" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Data%20Analysis-111111?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Analysis" />
-
-</div>
-
----
-
-## Foco atual
-
-```text
-Python       -> limpeza, automacao e analise de dados
-SQL          -> consultas, modelagem e exploracao de bases
-Power BI     -> dashboards, indicadores e storytelling com dados
-Git/GitHub   -> versionamento e portfolio tecnico
-```
-
----
-
-## Projetos de evolucao
-
-| Projeto | O que mostra |
-| --- | --- |
-| [Calculadora de IMC](https://github.com/GustavoZanc/python-calculadora-imc) | Primeiros passos com funcoes, entrada de dados e condicionais em Python. |
-| [Controle de Tarefas](https://github.com/GustavoZanc/controle-tarefas-python) | Menu no terminal, listas, dicionarios e persistencia em JSON. |
-| [Organizador de Arquivos](https://github.com/GustavoZanc/python-organizador-arquivos) | Automacao simples com manipulacao de pastas e arquivos. |
-| [Consultas SQL de Biblioteca](https://github.com/GustavoZanc/consultas-sql-biblioteca) | Criacao de tabelas, inserts, joins, filtros e agrupamentos. |
-| [Analise de Vendas com Pandas](https://github.com/GustavoZanc/analise-vendas-pandas) | Leitura de CSV, agrupamentos e indicadores com Pandas. |
-| [Dashboard Financeiro Simples](https://github.com/GustavoZanc/dashboard-financeiro-simples) | Base para analise financeira e preparacao de dashboard. |
-
----
-
-## Estatisticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoZanc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZanc&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GustavoZanc&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/gustavo-gabriel-zancanaro-zucoli-1a7a723b4" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/gustavozancanaroo/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:zancanaro8565@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=GustavoZanc&style=for-the-badge&color=58A6FF" alt="Profile views" />
-
-</div>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/gustavo-gabriel-zancanaro-zucoli-1a7a723b4)
