@@ -13,7 +13,6 @@ Eu sou [**Gustavo Zancanaro**](https://www.linkedin.com/in/gustavo-gabriel-zanca
 
 Estou construindo projetos praticos com [@Python](https://www.python.org/), SQL, Pandas, Power BI e GitHub para transformar dados em insights claros.
 
-Quando nao estou *programando*, voce pode me encontrar estudando projetos de dados, melhorando meu portfolio e aprendendo novas ferramentas para analise e operacoes de suporte.
 
 #### Me acompanhe no GitHub e no LinkedIn (^_-)-
 
@@ -28,10 +27,6 @@ Atualmente estou evoluindo passo a passo em dados, IA e desenvolvimento backend.
 #### Dados
 
 Hoje revisei a diferenca entre dados brutos e dados limpos. Dados brutos podem ter valores ausentes, linhas duplicadas e nomes de colunas confusos. Antes de criar graficos ou conclusoes, preciso entender e organizar o conjunto de dados primeiro.
-
-#### Backend
-
-Estou aprendendo que uma API e uma ponte entre sistemas. Um backend recebe uma requisicao, aplica alguma logica e retorna uma resposta. Mesmo endpoints simples me ajudam a entender como aplicacoes conectam usuarios, bancos de dados e servicos.
 
 #### IA
 
