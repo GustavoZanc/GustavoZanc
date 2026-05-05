@@ -3,35 +3,36 @@
 
 
 
-### Hi there! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="25"/>
+
+### Oi! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="25"/>
 
 
 <img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>
 
-I'm [**Gustavo Zancanaro**](https://www.linkedin.com/in/gustavo-gabriel-zancanaro-zucoli-1a7a723b4), a technology student focused on data analysis, Python, SQL, dashboards, and automation.
+Eu sou [**Gustavo Zancanaro**](https://www.linkedin.com/in/gustavo-gabriel-zancanaro-zucoli-1a7a723b4), estudante de tecnologia com foco em analise de dados, Python, SQL, dashboards e automacao.
 
-I am building practical projects with [@Python](https://www.python.org/), SQL, Pandas, Power BI, and GitHub to turn data into clear insights.
+Estou construindo projetos praticos com [@Python](https://www.python.org/), SQL, Pandas, Power BI e GitHub para transformar dados em insights claros.
 
-When I am not *programming*, you can find me studying data projects, improving my portfolio, and learning new tools for analytics and support operations.
+Quando nao estou *programando*, voce pode me encontrar estudando projetos de dados, melhorando meu portfolio e aprendendo novas ferramentas para analise e operacoes de suporte.
 
-#### Follow me on github and linkedin (^_-)-
+#### Me acompanhe no GitHub e no LinkedIn (^_-)-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoZanc&label=Profile%20views&color=0e75b6&style=flat" alt="GustavoZanc" /> </p>
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/gustavo-gabriel-zancanaro-zucoli-1a7a723b4)
 
-### Learning notes
+### Anotacoes de aprendizado
 
-I am currently growing step by step in data, AI, and backend development. I prefer to register small ideas clearly, because consistent practice matters more than pretending to know everything at once.
+Atualmente estou evoluindo passo a passo em dados, IA e desenvolvimento backend. Prefiro registrar pequenas ideias com clareza, porque a pratica consistente importa mais do que fingir saber tudo de uma vez.
 
-#### Data
+#### Dados
 
-Today I reviewed the difference between raw data and clean data. Raw data can have missing values, duplicated rows, and confusing column names. Before making charts or conclusions, I need to understand and organize the dataset first.
+Hoje revisei a diferenca entre dados brutos e dados limpos. Dados brutos podem ter valores ausentes, linhas duplicadas e nomes de colunas confusos. Antes de criar graficos ou conclusoes, preciso entender e organizar o conjunto de dados primeiro.
 
 #### Backend
 
-I am learning that an API is a bridge between systems. A backend receives a request, applies some logic, and returns a response. Even simple endpoints help me understand how applications connect users, databases, and services.
+Estou aprendendo que uma API e uma ponte entre sistemas. Um backend recebe uma requisicao, aplica alguma logica e retorna uma resposta. Mesmo endpoints simples me ajudam a entender como aplicacoes conectam usuarios, bancos de dados e servicos.
 
-#### AI
+#### IA
 
-I am starting to understand that AI applications are not only about asking a model a question. The quality of the data, the context, and the way the answer is used all matter. Small tests help me learn this gradually.
+Estou comecando a entender que aplicacoes de IA nao sao apenas sobre fazer uma pergunta para um modelo. A qualidade dos dados, o contexto e a forma como a resposta sera usada tambem importam. Pequenos testes me ajudam a aprender isso gradualmente.
