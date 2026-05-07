@@ -1,34 +1,80 @@
+<div align="center">
 
+# Olá, eu sou o Gustavo Zancanaro
 
+### Back-End Developer em formação | ADS @ Centro Universitário - FEITEP
 
+<a href="https://www.linkedin.com/in/gustavo-zancanaro-1a7a723b4">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:zancanaro8565@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+</div>
 
+---
 
+## Sobre mim
 
-### Oi!! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="25"/>
+- Cursando **Análise e Desenvolvimento de Sistemas**
+- Foco atual em **back-end**, lógica de programação, APIs, banco de dados e automações
+- Construindo projetos com **Python**, **SQL**, **Node.js**, **Express**, **Prisma**, **JWT**, **Git** e **GitHub**
+- Objetivo: conquistar minha primeira oportunidade em **desenvolvimento back-end** ou estágio em tecnologia
 
+Gosto de aprender construindo. Meus projetos são simples, mas cada um treina uma parte importante do back-end: entrada e validação de dados, persistência em JSON/SQL, organização de arquivos, consultas, APIs, autenticação e documentação.
 
-<img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>
+---
 
-Eu sou [**Gustavo Zancanaro**](https://www.linkedin.com/in/gustavo-gabriel-zancanaro-zucoli-1a7a723b4), estudante de tecnologia com foco em análise de dados, Python, SQL, dashboards e automação.
+## Tecnologias e Ferramentas
 
-Estou construindo projetos práticos com [@Python](https://www.python.org/), SQL, Pandas, Power BI e GitHub para transformar dados em insights claros.
+<div align="left">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### Me acompanhe no GitHub e no LinkedIn (^_-)-
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoZanc&label=Profile%20views&color=0e75b6&style=flat" alt="GustavoZanc" /> </p>
+> Em aprendizado: APIs REST, autenticação com JWT, modelagem de banco de dados, SQL, testes, organização de projetos e boas práticas de back-end.
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/gustavo-gabriel-zancanaro-zucoli-1a7a723b4)
+---
 
-### Anotações de aprendizado
+## Projetos em destaque
 
-Atualmente estou evoluindo passo a passo em dados, IA e desenvolvimento backend. Gosto de registrar pequenas ideias com clareza, porque a prática consistente importa mais do que tentar parecer que sei tudo de uma vez.
+| Repositório | O que demonstra |
+|---|---|
+| [GustavoZancanaro.dev](https://github.com/GustavoZanc/GustavoZanc) | Perfil e evolução técnica documentada |
+| [consultas-sql-biblioteca](https://github.com/GustavoZanc/consultas-sql-biblioteca) | SQL, tabelas, filtros, agrupamentos e joins |
+| [controle-tarefas-python](https://github.com/GustavoZanc/controle-tarefas-python) | Persistência em JSON, lógica de terminal e CRUD simples |
+| [python-organizador-arquivos](https://github.com/GustavoZanc/python-organizador-arquivos) | Automação com Python e manipulação de arquivos |
+| [project-py-personal](https://github.com/GustavoZanc/project-py-personal) | Estudos práticos em Python |
 
-#### Dados
+---
 
-Hoje revisei a diferença entre dados brutos e dados limpos. Dados brutos podem ter valores ausentes, linhas duplicadas e nomes de colunas confusos. Antes de criar gráficos ou tirar conclusões, preciso entender e organizar o conjunto de dados primeiro.
+## Meu foco agora
 
-#### IA
+```text
+Back-end em formação:
+API REST -> regras de negócio -> autenticação -> banco de dados -> deploy -> documentação
+```
 
-Estou começando a entender que aplicações de IA não são apenas sobre fazer uma pergunta para um modelo. A qualidade dos dados, o contexto e a forma como a resposta será usada também importam. Pequenos testes me ajudam a aprender isso gradualmente.
+Estou aberto a estágios, colaborações e feedbacks técnicos.
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoZanc&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZanc&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
+</div>
