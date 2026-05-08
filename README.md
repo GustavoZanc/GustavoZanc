@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Gustavo Zancanaro
+# Olá, meu nome é Gustavo Zancanaro
 
 ### Back-End Developer em formação | Node.js, Java, SQL e APIs
 
