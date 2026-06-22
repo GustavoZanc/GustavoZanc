@@ -1,6 +1,5 @@
 # oii, meu nome é gustavo!
 
-sou estudante de Análise e Desenvolvimento de Sistemas no 1º ano.
 
 Estou mergulhando nos estudos de Linux, redes de computadores e fundamentos de segurança da informação. Meu objetivo é atuar em Blue Team, SOC ou DevSecOps e conseguir meu primeiro estágio na área ainda em 2026.
 
