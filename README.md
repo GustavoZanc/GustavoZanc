@@ -1,17 +1,1 @@
-# oii, meu nome é gustavo!
-
-
-Estou mergulhando nos estudos de Linux, redes de computadores e fundamentos de segurança da informação. Meu objetivo é atuar em Blue Team, SOC ou DevSecOps e conseguir meu primeiro estágio na área ainda em 2026.
-
-Aqui no GitHub você encontra meus laboratórios práticos, anotações e projetos que vou subindo conforme avanço nos estudos.
-
-### O que estou estudando no momento:
-- Linux básico e virtualização
-- Redes (TCP/IP, DNS, firewalls)
-- CompTIA Security+ (em andamento)
-- python
-### Laboratórios recentes:
-- [ciberseguranca-labs](https://github.com/GustavoZanc/ciberseguranca-labs)
-- [lab-linux-seguranca](https://github.com/GustavoZanc/lab-linux-seguranca)
-
-Se quiser trocar uma ideia sobre estudos, cibersegurança ou oportunidades, eu ficaria muito feliz em conversar.
+Atuo na IT4U com DevSecOps, desenvolvendo soluções que juntam automação, segurança e software pra criar aplicações mais resilientes e ambientes mais seguros. Tenho experiência em Back-end Development, APIs, integração de sistemas e automação, sempre com foco em práticas de segurança ao longo do ciclo de desenvolvimento. Meu principal interesse é Cybersecurity, principalmente Blue Team, SOC e DevSecOps. Trabalho com SIEM e Log Analysis, correlação de eventos, threat hunting, triagem de alertas, investigação de IOCs, hardening de Linux, controle de acesso e monitoramento de sistemas. Também desenvolvo o AttackerSentinel, um framework open-source de detecção comportamental de malware baseado em Machine Learning, voltado pra identificar ransomware, malware fileless, process injection, LOLBins e C2 beaconing sem depender de assinaturas tradicionais. O projeto usa DDD, Arquitetura Hexagonal e uma estrutura modular e extensível. Além disso, mantenho um portfólio ativo no GitHub com laboratórios práticos, ferramentas para SOC, automações de segurança e projetos de DevSecOps. Estou em processo de certificação CompTIA Security+, aprofundando conhecimentos em operações defensivas, gestão de riscos, resposta a incidentes e arquitetura de segurança.
